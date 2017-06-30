@@ -1,4 +1,4 @@
-# Github Downloader
+## Github Downloader
 Downloads repos. Simple as that. Requires git from https://git-scm.com/ Version doesnt matter
-Version:
+# Version:
 [![Version](https://img.shields.io/github/release/PumptatoDevelopment/Github-Downloader.svg)](https://github.com/PumptatoDevelopment/Github-Downloader/releases/latest)
